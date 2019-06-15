@@ -1,3 +1,4 @@
 总用量 0
 -rw-rw-r--. 1 cany cany 0 6月  14 23:08 1.txt
 drwxr-xr-x. 2 cany cany 6 6月  14 23:08 xmc
+third
